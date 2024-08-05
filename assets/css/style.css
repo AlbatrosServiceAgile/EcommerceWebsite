@@ -6444,6 +6444,7 @@ footer{
 }
 .cs-iconbox.cs-style2 .cs-iconbox_subtitle {
   line-height: 1.75em;
+  text-align: justify;
 }
 
 .cs-iconbox_3_list {
